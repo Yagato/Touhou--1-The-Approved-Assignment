@@ -1,0 +1,22 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\bin\Debug\Touhou -1 The Approved Assignment.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\bin\Debug\Touhou -1 The Approved Assignment.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\bin\Debug\Interop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\bin\Debug\AxInterop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou -1 The Approved Assignment.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Interop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\AxInterop.WMPLib.dll
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou -1 The Approved Assignment.csproj.ResolveComReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form2.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form3.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou -1 The Approved Assignment.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou -1 The Approved Assignment.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou -1 The Approved Assignment.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form4.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form5.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form6.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\bin\Debug\en\Touhou -1 The Approved Assignment.resources.dll
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form7.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\Touhou__1_The_Approved_Assignment.Form7.en.resources
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Touhou -1 The Approved Assignment\Touhou -1 The Approved Assignment\obj\Debug\en\Touhou -1 The Approved Assignment.resources.dll
